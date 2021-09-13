@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "Converting manual Excel spreadsheets to efficient Web Applications"
-lead: "We build professional Web/Desktop applications for managers who are frustrated with Google Sheets/Excel in a month."
+lead: "We build professional Web/Desktop applications in a month for managers who are frustrated with Google Sheets/Excel."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
