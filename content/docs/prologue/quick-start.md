@@ -17,7 +17,7 @@ toc: true
 
 And this is my first ever attempt at GitHub
 
-## Requirements
+## This is my second attempt. Zura speaking again!
 
 Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
 
