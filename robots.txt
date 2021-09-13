@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://appifysheets.github.io/sitemap.xml
+Sitemap: https://appifysheets.com/sitemap.xml
