@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "Converting manual Excel spreadsheets to efficient Web Applications"
+lead: "We build professional Web/Desktop applications for managers who are frustrated with Google Sheets/Excel in a month."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,46 +13,47 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## What we are all about
 
-There are two main ways to get started with Doks:
+### We build professional Web/Desktop applications for managers who are frustrated with Google Sheets/Excel in a month.
 
-### Tutorial
+## How to get started
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
+[Press the link](http://calendar.com/appify-sheets) 👈 to schedule a free consultation session with us where we help you identify your painpoints and give you a direction to move toward, whether we can help you or not.
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+## How our services work
 
-### Quick Start
+The goal is to help you and your team transition from Google Sheets (or Excel) to a functioning Web Application that fully replaces your Google Sheets / Excel workflow within 4 weeks with additional 4 weeks of support.
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
+Our services include:
+- 1-day audit - of your particular situation with a written & video analysis and recommendations,
+- 5-day sprint - optimization of your sheets workflow inefficiencies with some automation and
+a deep written & video analysis,
+- 30-day transformation - WebApp-ification of Sheets,
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+The 30-day project involves 4 major steps and a post-launch sequence:
 
-## Go further
+- - Pre-Launch - -
 
-Recipes, Reference Guides, Extensions, and Showcase.
+1 - Evaluation - We evaluate the project, come up with a plan to rapidly transition to a web application within 3-5 days;
+2 - Build - Create the database, data model, construct views, implement validation and business rules, 7-14 days;
+3 - Test - Launch the test version of the system, create roles & permissions, bring on all users, 7 days;
+4 - Launch - Host the web application on a public domain, everybody is on board, 7 days;
 
-### Recipes
+- - Post-Launch - -
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+5 - Maintenance - Bug-fixing, monitoring for the duration of 1 month after launch;
+6 - Handoff - We give you access to the source code and ask you to give us a testimonial for the great result 🙂.
 
-### Reference Guides
+We provide the following supplemental services:
+- Integration with other platforms,
+- Training you and your team,
+- Providing ongoing support.
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+NEXT STEP: Let's connect here on LinkedIn!
 
-### Extensions
+You can also reach me via e-mail at:
+Petre.Chitashvili@AppifySheets.com
 
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
+Thank you for reading and have a good day! 🙂
+- Petre
