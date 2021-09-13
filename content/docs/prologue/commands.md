@@ -15,6 +15,15 @@ toc: true
 
 {{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
 
+## C# script
+
+```csharp
+public void DoNothing(int param1)
+{
+  var x = 5;
+}
+```
+
 ## create
 
 Create new content for your site:
