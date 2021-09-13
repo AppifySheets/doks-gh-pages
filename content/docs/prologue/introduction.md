@@ -35,15 +35,15 @@ The 30-day project involves 4 major steps and a post-launch sequence:
 
 ### Pre-Launch 
 
-1 - Evaluation - We evaluate the project, come up with a plan to rapidly transition to a web application within 3-5 days;
-2 - Build - Create the database, data model, construct views, implement validation and business rules, 7-14 days;
-3 - Test - Launch the test version of the system, create roles & permissions, bring on all users, 7 days;
-4 - Launch - Host the web application on a public domain, everybody is on board, 7 days;
+1 - Evaluation - We evaluate the project, come up with a plan to rapidly transition to a web application within 3-5 days;  
+2 - Build - Create the database, data model, construct views, implement validation and business rules, 7-14 days;  
+3 - Test - Launch the test version of the system, create roles & permissions, bring on all users, 7 days;  
+4 - Launch - Host the web application on a public domain, everybody is on board, 7 days;  
 
 ### Post-Launch
 
-5 - Maintenance - Bug-fixing, monitoring for the duration of 1 month after launch;
-6 - Handoff - We give you access to the source code and ask you to give us a testimonial for the great result 🙂.
+5 - Maintenance - Bug-fixing, monitoring for the duration of 1 month after launch;  
+6 - Handoff - We give you access to the source code and ask you to give us a testimonial for the great result 🙂.  
 
 We provide the following supplemental services:
 
