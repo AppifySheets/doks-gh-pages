@@ -13,6 +13,10 @@ weight: 110
 toc: true
 ---
 
+## Hello, My name is Zura!
+
+And this is my first ever attempt at GitHub
+
 ## Requirements
 
 Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
