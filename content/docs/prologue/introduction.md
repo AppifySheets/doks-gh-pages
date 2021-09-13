@@ -33,7 +33,7 @@ Our services include:
 
 The 30-day project involves 4 major steps and a post-launch sequence:
 
-### Pre-Launch 
+### Pre-Launch
 
 1 - Evaluation - We evaluate the project, come up with a plan to rapidly transition to a web application within 3-5 days;  
 2 - Build - Create the database, data model, construct views, implement validation and business rules, 7-14 days;  
