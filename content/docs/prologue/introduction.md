@@ -51,7 +51,6 @@ We provide the following supplemental services:
 - Training you and your team,
 - Providing ongoing support.
 
-
 You can also reach me via e-mail at:
 Petre.Chitashvili@AppifySheets.com
 
