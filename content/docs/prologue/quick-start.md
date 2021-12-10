@@ -1,7 +1,7 @@
 ---
 title: "Our Projects"
 description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+lead: "Here are the examples of some of our recent accomplishments."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,9 +15,9 @@ toc: true
 
 ## HR Business Cycle Appification
 
-[HR Information System Demo](https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ) is what we created in a month.
+[HR Information System Demo](https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ) is what we created in a month for one of the most famous fast-food chains in the World (for their Georgian representation).
 
-## AppifySheets 2
+## CovidBeds
 
 Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
 
