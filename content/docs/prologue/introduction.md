@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: ""
 description: "Converting manual Excel spreadsheets to efficient Web Applications"
 lead: "We build professional Web/Desktop applications in a month for managers who are frustrated with Google Sheets/Excel."
 date: 2020-10-06T08:48:57+00:00
@@ -19,7 +19,7 @@ toc: true
 
 ## How to get started
 
-[Press the link](http://calendar.com/appify-sheets) 👈 to schedule a free consultation session with us where we help you identify your painpoints and give you a direction to move toward, whether we can help you or not.
+[Press the link](https://www.calendar.com/appify) 👈 to schedule a free consultation session with us where we help you identify your painpoints and give you a direction to move toward, whether we can help you or not.
 
 ## How our services work
 
