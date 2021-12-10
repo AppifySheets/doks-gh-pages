@@ -13,11 +13,11 @@ weight: 110
 toc: true
 ---
 
-## Hello, My name is Zura!
+## AppifySheets
 
 And this is my first ever attempt at GitHub
 
-## This is my second attempt. Zura speaking again!
+## AppifySheets 2
 
 Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
 
