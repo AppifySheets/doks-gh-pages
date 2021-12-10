@@ -19,10 +19,12 @@ toc: true
 
 ## CovidBeds
 
-Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
+Implemented online process of Covid-19 patient hospitalization/discharge in 120 medical centers. Central administration of Ministry of Health of Georgia recieves information on free beds, which facilitates the process of immediate response on Covid patient transfer all around Georgia.
 
-- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+## Rural Doctors
 
-## Start a new Doks project
+In collaboration with UNICEF and USAID Georgia we created a [Learning Management System](https://www.facebook.com/unicefgeorgia/videos/453192065941423) for 1300 rural doctors. The main goal of the centralized platform was to help rural populations, including mothers and children, to receive necessary support from well-trained rural primary healthcare professionals.
 
-Create a new site, change directories, install dependencies, and start development server.
+"The trainings give us a lot of experience, new information is provided to us literally up to the minute. These trainings are conducted by prominent doctors. These online meetings bring together rural doctors from all over the district and we exchange information with each other, who needs what, who can provide support."  - Amiran Mushkudiani, Geguti village doctor
+
+## ...and many more
