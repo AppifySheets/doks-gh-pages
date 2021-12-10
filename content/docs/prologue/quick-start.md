@@ -19,7 +19,7 @@ toc: true
 
 ## CovidBeds
 
-Implemented online process of Covid-19 patient hospitalization/discharge in 120 medical centers. Central administration of Ministry of Health of Georgia recieves information on free beds, which facilitates the process of immediate response on Covid patient transfer all around Georgia.
+Implemented online process of Covid-19 patient hospitalization/discharge in 120 medical centers. Central administration of Ministry of Health of Georgia recieves information on vacant beds, which facilitates the process of immediate response on Covid patient transfer all around Georgia.
 
 ## Rural Doctors
 
