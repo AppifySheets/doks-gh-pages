@@ -15,8 +15,8 @@ toc: true
 
 ## HR Business Cycle Appification
 
-[HR Information System](https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ) is what we created in a month for one of the most famous fast-food chains in the World (for their Georgian representation).  
-This Demo illustrates fully automated HR administration and payroll workflow.
+[HR Information System](https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ) is what we created in a month for KFC Georgia.  
+This Demo illustrates fully automated shift schedule planning, HR administration and payroll workflow.
 
 ## CovidBeds - Vacant beds information system for covid patients
 
