@@ -15,7 +15,7 @@ toc: true
 
 ## HR Business Cycle Appification
 
-https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ
+[HR Information System Demo](https://www.youtube.com/watch?v=1hJH26SHTOk&list=PLDiTLW7eMZTRVaJ8cyPpka5gvNSCePimQ) is what we created in a month.
 
 ## AppifySheets 2
 
