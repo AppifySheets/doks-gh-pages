@@ -1,7 +1,7 @@
 ---
 title : "We transform Excel to Software" 
-description: "We transform manual multi-user Spreadsheets forkflows to automated Web-Applications in a month"
-lead: "We build professional Web applications for managers who are frustrated with Google Sheets/Excel in a month."
+description: "Our focus is companies with 1-10 million in revenue"
+lead: "We transform Excel to Software"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
