@@ -26,5 +26,3 @@ Doks uses npm to centralize dependency management, making it [easy to update]({{
 ## Start a new Doks project
 
 Create a new site, change directories, install dependencies, and start development server.
-
-
