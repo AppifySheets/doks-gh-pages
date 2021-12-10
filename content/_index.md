@@ -11,4 +11,4 @@ images: []
 
 ## What we are all about
 
-### We build professional Web/Desktop applications for managers who are frustrated with Google Sheets/Excel in a month.
+### We transform Excel to Software.
