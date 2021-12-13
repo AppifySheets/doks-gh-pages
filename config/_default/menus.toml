@@ -11,6 +11,11 @@
   url = "/docs/help/"
 
 [[main]]
+  name = "Our Work"
+  url = "/our-work/"
+  weight = 20
+
+[[main]]
   name = "Docs"
   url = "/docs/prologue/introduction/"
   weight = 10
