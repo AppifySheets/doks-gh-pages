@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Our Work"
-  url = "/our-work/"
+  url = "/ourwork/"
   weight = 20
 
 [[main]]
