@@ -8,6 +8,6 @@ draft: false
 images: []
 ---
 
-## We transform Excel to Software.
+## 
 
 {{< youtube id="LhfH5XYJuH4" title="ეს არის საუკეთესო ვიდეო! 🤗" >}}
