@@ -16,12 +16,12 @@
   weight = 20
 
 [[main]]
-  name = "Docs"
+  name = "Docs2"
   url = "/docs/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Blog2"
   url = "/blog/"
   weight = 20
 
